@@ -1,0 +1,31 @@
+{
+  "name": "alchemical_process",
+  "version": "1.0.0",
+  "description": "Music Player featuring latest music by Fly Benzo and Ms. Incredible, Alchemical Process coming soon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeBrayC/ExpressMusic.git"
+  },
+  "keywords": [
+    "Music",
+    "Fly",
+    "Benzo",
+    "Ms.",
+    "Incredible",
+    "Hip-Hop",
+    "Rap"
+  ],
+  "author": "DeBray (\"Fly Benzo\")",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeBrayC/ExpressMusic/issues"
+  },
+  "homepage": "https://github.com/DeBrayC/ExpressMusic#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
